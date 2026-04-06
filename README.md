@@ -77,7 +77,7 @@ virtual-cosmos/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/virtual-cosmos.git
+git clone https://github.com/tanishka462/Virtual-cosmos.git
 cd virtual-cosmos
 ```
 
@@ -91,7 +91,7 @@ Create `.env` file in the backend folder:
 ```env
 PORT=5000
 CLIENT_URL=http://localhost:5173
-MONGODB_URI=mongodb://localhost:27017/virtual-cosmos
+MONGODB_URI=YOUR_MONGO_URI
 ```
 
 Start the server:
